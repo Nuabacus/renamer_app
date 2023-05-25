@@ -1,6 +1,3 @@
-# Test
-
-
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTextEdit, QVBoxLayout, QWidget, QPushButton, QShortcut, QHBoxLayout, QLabel, QSizePolicy, QSpacerItem, QMenu, QAction
 from PyQt5.QtGui import QKeySequence, QTextCursor, QFont, QIcon, QPixmap, QFontDatabase
